@@ -1,4 +1,4 @@
-# first_app
+# A Simple Quiz app Built using Dart and Flutter.
 
 A new Flutter project.
 
